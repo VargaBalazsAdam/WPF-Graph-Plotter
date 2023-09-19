@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Graph_Plotter"
         mc:Ignorable="d"
-        Title="Graph plotter" Height="417" Width="320">
+        Title="Graph plotter" Height="430" Width="335">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="7*"/>
